@@ -8,6 +8,13 @@
     background-color: lightgreen;
 }
 
+
+.create-update-form {
+    padding: 5px;
+    margin: 5px;
+    background: rgb(183, 123, 240);
+}
+
 .form-group {
     text-align: center;
 }
