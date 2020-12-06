@@ -2,3 +2,19 @@
     background-color: lightblue;
     font-weight: bolder;
 }
+
+
+.card-body {
+    background-color: lightgreen;
+}
+
+.form-group {
+    text-align: center;
+}
+
+.btn {
+    justify-content: center;
+    background-color: rgb(114, 114, 114);
+    color: white;
+   
+}

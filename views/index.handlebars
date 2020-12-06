@@ -5,10 +5,13 @@
   <img src="https://i.ibb.co/dKmznDf/burger.jpg" alt="burger" border="0"></a>
 </div>
 
-
-<h2>I am not hungry!</h2>
-
+<div class="card">
+  <div class="card-body">
+    <h2 class="font text-center">I am not hungry!</h2>
+  </div>
+</div>
 <ul>
+
   {{#each burgers}}
     {{#unless devoured}}
       {{> burgers/burger-block devour=true}}
@@ -16,7 +19,11 @@
   {{/each}}
 </ul>
 
-<h2>I am hungry!</h2>
+<div class="card">
+  <div class="card-body bg-danger">
+    <h2 class="font text-center">I am hungry!</h2>
+  </div>
+</div>
 
 <ul>
   {{#each burger}}
@@ -26,7 +33,7 @@
   {{/each}}
 </ul>
 
-<h2>Add a Burger</h2>
+<h2 class="font text-center">Add a Burger</h2>
 <form class="create-form">
 
   <div class="form-group">
@@ -34,11 +41,15 @@
     <input type="text" id="ca" name="name">
   </div>
 
-  <div class="form-group">
+  <div class="form-group bg-warning">
     <label for="devo">Devoured?</label><br>
     <input type="radio" name="devoured" value="1" checked> Devoured!<br>
     <input type="radio" name="devored" value="0"> Awake
   </div>
 
-  <button type="submit">Add Burger</button>
+
+      <div class="text-center">
+  <button type="submit" class="btn">I'll Eat Later</button>
+  </div>
 </form>
+
