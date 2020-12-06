@@ -1,7 +1,16 @@
+li {
+    margin: 7px;
+    padding: 7px;
+    background: rgb(219, 235, 131);
+}
+
+
 .jumbotron {
     background-color: lightblue;
     font-weight: bolder;
 }
+
+
 
 
 .card-body {

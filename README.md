@@ -1,6 +1,6 @@
 ## BurgerEats
 
-
+<a href="https://ibb.co/LhGBrwK"><img src="https://i.ibb.co/1JSBMVc/eatburger.png" alt="eatburger" border="0"></a>
 
 
 ## Description :bulb:
@@ -9,43 +9,23 @@ Burger Eats is a Node Express application that uses MySQL as a database. Handleb
 
 1. The user inputs what Burger they want to eat
 2. The application takes the value and renders it and displays on the html
-3. A "devoured" button is displayed next to the user Burger value
-4. User selects the "devoured" button and the value is move to the other side which represents the burger has been consumed.
-5. The user can add as many burger as they want
+3. A "EATNOW" and a "Bye Burger" button is displayed next to the user Burger value
+4. User selects the "EATNOW" button and the value is move to the other section which represents the burger has been consumed.
+5. User select the "Bye Burger" button and the value is removed
+6. The user can add as many burger as they want
 
 
 ## Challenges! :warning:
 
-- Couldn't figure out to get the application active in the browser
-
-- The MVC file structure was challenging, not sure if everything is communication correctly
-
-- My Heroku server kept failing, it kept prompting the password optin. 
-
-- Still confused on the ORM functionality and some of the json requests
+- Couldn't figure out to get the "EATNOW" button to work, When the value is taken and move to the other section.
 
 
-
-## Conslusion :boom:
-
-Very challenging assignment, did my best. 
-
-
-
-## Credits :star:
-
-
-[W3 Schools Documentation](w3schools.com)
-
-
-[Lofi Music](https://www.youtube.com/watch?v=tutZKLeGrCs)
 
 ## Author :pen:
 
 Ernest Wesson :zap:
 
 LinkedIN: https://www.linkedin.com/in/ernest-wesson-b4183b5a/
-
 
 
 

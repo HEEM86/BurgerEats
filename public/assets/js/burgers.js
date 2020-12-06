@@ -3,7 +3,7 @@ $(function () {
     $(".change-devoured").on("click", function (event) {
       var id = $(this).data("id");
       var newDevoured = $(this).data("devoured");
-      console.log(newDevoured)
+      newFunction()(newDevoured);
       var newBurgers = {
         devoured: newDevoured
       };
@@ -50,3 +50,11 @@ $(function () {
         })
     });
   });
+
+
+function newFunction() {
+  return console.log;
+}
+// function newFunction(newDevoured) {
+//   console.log(newDevoured);
+// }
