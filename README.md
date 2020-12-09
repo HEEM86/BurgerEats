@@ -19,6 +19,14 @@ Burger Eats is a Node Express application that uses MySQL as a database. Handleb
 
 - Couldn't figure out to get the "EATNOW" button to work, When the value is taken and move to the other section.
 
+Here's a screen shot of the error that I keep getting when I click the "EATNOW" button
+
+![Terminal Error Message](./public/updateErrorBurger.png)
+
+
+Here's a screen shot of the error message that I get in the console when "EATNOW" is clicked.
+
+![Console Error Message](./public/consoleErrorBurger.png)
 
 
 ## Author :pen:
