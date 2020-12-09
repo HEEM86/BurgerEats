@@ -34,3 +34,8 @@ li {
     color: white;
    
 }
+
+.footer {
+    margin-top: 10px;
+    background-color: rgb(153, 153, 153);
+}
