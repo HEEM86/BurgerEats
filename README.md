@@ -15,6 +15,10 @@ Burger Eats is a Node Express application that uses MySQL as a database. Handleb
 6. The user can add as many burger as they want
 
 
+## Video Demo
+
+**Click Here** []()
+
 ## Challenges! :warning:
 
 - Couldn't figure out to get the "EATNOW" button to work, When the value is taken and move to the other section.
