@@ -17,7 +17,7 @@ Burger Eats is a Node Express application that uses MySQL as a database. Handleb
 
 ## Video Demo
 
-**Click Here** []()
+**Click Here** [The Burger Eats App](https://youtu.be/Q0Hpw6oyzMM)
 
 ## Challenges! :warning:
 
