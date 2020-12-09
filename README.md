@@ -1,6 +1,6 @@
 ## BurgerEats
 
-<a href="https://ibb.co/LhGBrwK"><img src="https://i.ibb.co/1JSBMVc/eatburger.png" alt="eatburger" border="0"></a>
+![HomePage](./public/burgerEatshome.png)
 
 
 ## Description :bulb:
